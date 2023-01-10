@@ -20,12 +20,12 @@ Users should be able to:
 
 ## The Solution (Screenshots)
 
-![Mobile  Design preview for the Stats preview card component coding challenge](/solution/desktop_view.png)
+![Desktop  Design preview for the Stats preview card component coding challenge](/solution/desktop_view.PNG)
 ![Mobile  Design preview for the Stats preview card component coding challenge](/solution/mobile_view.png)
 
 # Link
 
-(https://sahmed41.github.io/sahmed.github.io/front_end_mentor/challenge_01/ "Visit solution")
+Visit solution at: (https://sahmed41.github.io/sahmed.github.io/front_end_mentor/challenge_01)
 
 # Technologies Used
 * HTML
