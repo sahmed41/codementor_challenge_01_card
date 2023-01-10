@@ -20,7 +20,7 @@ Users should be able to:
 
 ## The Solution (Screenshots)
 
-![Mobile  Design preview for the Stats preview card component coding challenge](/solution/desktop_view.pnd)
+![Mobile  Design preview for the Stats preview card component coding challenge](/solution/desktop_view.png)
 ![Mobile  Design preview for the Stats preview card component coding challenge](/solution/mobile_view.png)
 
 # Link
